@@ -1,7 +1,7 @@
-# 🌌 Celestial Mechanics: An Educational Simulation (WebGL & AR) 🌍
+# 🌌 Educational Simulation (WebGL & AR) 🌍
 
 ## Overview 🌟
-Welcome to **Celestial Mechanics**! This interactive, educational simulation is designed to explore fundamental astronomical phenomena, including the Earth's rotation, eclipses, and the movement of celestial bodies. Whether you're a student eager to learn or an enthusiast looking to explore the universe, this project provides a fun, informative, and visually stunning way to understand the physics behind space science.
+Welcome to **Educational Simulation App**! This interactive, educational simulation is designed to explore fundamental concepts such as astronomical phenomena and gravity. Whether you're a student eager to learn or an enthusiast looking to explore and understand science, this project provides a fun, informative, and visually stunning way to understand the physics behind our universe.
 
 🚀 **Explore the wonders of our universe and understand the physics and scientific principles that shape it!**
 ---
@@ -19,6 +19,8 @@ Welcome to **Celestial Mechanics**! This interactive, educational simulation is 
 - **Day and Night Cycle** 🌅🌙: Explore how the Earth's rotation causes the transition between day and night.
   
 - **Eclipse Simulation** 🌞🌑: Witness solar, lunar, and annular eclipses in real-time and understand their causes.
+
+- **Gravity Simulation** 🌞🌑: This simulation helps students visually understand the effect of mass and height on falling objects under gravity, with personalized audio feedback and real-time analytics.
   
 - **Interactive Controls** 🎮: Drag and move celestial bodies or let them move automatically to see natural phenomena unfold.
   
@@ -53,7 +55,7 @@ Welcome to **Celestial Mechanics**! This interactive, educational simulation is 
 
 ---
 You can access the app directly by clicking on the link:
-https://ezrayalley.github.io/An-Educational-Simulation-App-Celestial-Mechanics/
+https://ezrayalley.github.io/Educational-Simulation-App/
 
 
 ## 👥 Contribution
