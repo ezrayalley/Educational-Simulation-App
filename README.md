@@ -5,8 +5,8 @@ Welcome to **Celestial Mechanics**! This interactive, educational simulation is 
 
 🚀 **Explore the wonders of our universe and understand the physics and scientific principles that shape it!**
 ---
+<img width="1209" height="721" alt="Screenshot 2026-09-22 233841" src="https://github.com/user-attachments/assets/f0c6e01a-d372-4fae-9b00-b14485fc3ed5" />
 
-![image](https://github.com/user-attachments/assets/7467a2f3-e85a-4183-a2ca-04264c36793d)
 
 
 ---
