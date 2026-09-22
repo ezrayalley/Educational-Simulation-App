@@ -7,6 +7,7 @@ Welcome to **Celestial Mechanics**! This interactive, educational simulation is 
 ---
 <img width="1209" height="721" alt="Screenshot 2026-09-22 233841" src="https://github.com/user-attachments/assets/f0c6e01a-d372-4fae-9b00-b14485fc3ed5" />
 <img width="1599" height="881" alt="cms image1" src="https://github.com/user-attachments/assets/2a5facbd-ad2f-44be-b904-ae4c8c1fa759" />
+<img width="1330" height="820" alt="Screenshot 2026-04-21 171107" src="https://github.com/user-attachments/assets/ab1bd3ff-65f3-4055-b867-3990e8e128bc" />
 
 
 
