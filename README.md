@@ -61,11 +61,26 @@ Select Simulation → Interact in 3D → Observe the Phenomenon → Ask AI Tutor
 
 ### The pedagogy behind each feature
 
+<<<<<<< HEAD
 - **Simulations:** learning by doing lets students *see* rotation, alignment and gravity rather than imagine them, lowering mental load.
 - **Ask AI Tutor:** instant, on-demand help scaffolds self-paced learning.
 - **Practice Questions:** self-testing (retrieval practice) strengthens memory, and topic choice gives learners control.
 - **AI Feedback:** timely formative feedback with hints keeps students thinking and trying again.
 - **Cross-platform:** flexible access supports different learning environments.
+=======
+---
+You can access the app directly by clicking on the link:
+https://ezrayalley.github.io/Educational-Simulation-App/
+
+
+## 👥 Contribution
+Contributions are welcome from anyone passionate about education, space, science, physics, and simulation!
+
+### How to Contribute:
+1. Fork the repository and create your own branch.
+2. Make your changes, be it improvements, bug fixes, or new features.
+3. Submit a pull request with a description of what you've done.
+>>>>>>> 8fdb9e5c4f09a507692729f29d8c7828c6685a2c
 
 ---
 
