@@ -43,6 +43,9 @@ This app makes those ideas **visible and interactive**, and adds an AI tutor so 
 | Main menu | Celestial Mechanics (Day/Night and Eclipse) |
 |:---:|:---:|
 | ![Main menu](docs/images/main-menu.png) | ![Celestial Mechanics](docs/images/celestial-mechanics.png) |
+<img width="1200" height="683" alt="Screenshot 2026-11-27 174021" src="https://github.com/user-attachments/assets/fcf59587-19cb-4028-a4ca-ea5705443ffd" />|<img width="1207" height="686" alt="Screenshot 2026-11-27 174039" src="https://github.com/user-attachments/assets/0b62dda4-cf0b-4543-8ed5-56874c1552b8" /> | 
+
+
 
 | Gravity simulation | GenAI Tutor panel |
 |:---:|:---:|
