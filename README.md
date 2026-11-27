@@ -138,6 +138,6 @@ MIT lincense
 <div align="center">
 
 ⭐ If you find this project useful, please give it a star! ⭐
-ezra.yalley@gmail.com
+- Email: ezra.yalley@gmail.com
 
 </div>
