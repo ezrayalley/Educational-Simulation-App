@@ -50,7 +50,7 @@ Welcome to **Celestial Mechanics**! This interactive, educational simulation is 
 
 ---
 You can access the app directly by clicking on the link:
-https://ezrayalley.github.io/An-Educational-Simulation-App-Celestial-Mechanics/
+https://ezrayalley.github.io/Educational-Simulation-App/
 
 
 ## 👥 Contribution
