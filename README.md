@@ -52,6 +52,12 @@ The **GenAI Tutor Panel** button in each simulation opens the tutor. In the scre
 
 ---
 
+## 🌐 Live Demo
+
+You can access the app directly by clicking on the link:
+https://ezrayalley.github.io/Educational-Simulation-App/
+
+---
 ## 🧠 Learning Journey
 
 ```text
@@ -69,8 +75,6 @@ Select Simulation → Interact in 3D → Observe the Phenomenon → Ask AI Tutor
 - **Cross-platform:** flexible access supports different learning environments.
 =======
 ---
-You can access the app directly by clicking on the link:
-https://ezrayalley.github.io/Educational-Simulation-App/
 
 
 ## 👥 Contribution
