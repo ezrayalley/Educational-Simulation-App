@@ -120,17 +120,6 @@ git clone https://github.com/<your-username>/<your-repo>.git
 ### Build
 **File → Build Settings →** add all scenes → choose **WebGL**, **Android** or **Windows** → **Build**.
 
-> ⚠️ **Never commit your API key.** Keys pushed to a public repo can be found and disabled by Google. Leave the field empty in the committed project and add the key locally, or load it from a file excluded by `.gitignore`.
-
----
-
-## ⚠️ Known Limitations
-
-- **AI accuracy:** answers are not grounded in a syllabus and can occasionally be wrong or oversimplified, so a teacher should review them.
-- **Internet required for AI features:** the simulations work offline, but the tutor, practice questions and feedback need internet, and sometimes a VPN in regions where Gemini is unavailable.
-- **Rate limits:** the API can be rate-limited or slow when many students use it at once.
-- **API key in the app:** a key stored in a build can be extracted. A backend proxy is needed for wide release.
-
 ---
 
 ## 🔮 Future Improvements
@@ -141,20 +130,10 @@ git clone https://github.com/<your-username>/<your-repo>.git
 
 ---
 
-## 👥 Team
-
-| Member | Contribution |
-|---|---|
-| **Ezra Yalley** | Development, programming, UI/UX design |
-| **Eva** | Development and design |
-| **Alan** | Documentation |
-| **Moe** | Testing and slide preparation |
-
 ---
 
 ## 📄 License
-
-Add your license here (for example MIT) and include a `LICENSE` file.
+MIT lincense
 
 <div align="center">
 
